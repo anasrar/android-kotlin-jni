@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KotlinJni" parent="Theme.AppCompat.DayNight">
+    </style>
+
+    <style name="Theme.KotlinJni" parent="Base.Theme.KotlinJni"/>
+</resources>
